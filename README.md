@@ -36,7 +36,7 @@ Portfolio/
 │
 ├── index.html
 ├── style.css
-├── profile.jpg
+├── Profile.jpg
 ├── Ayush_Aravind_CV.pdf
 └── README.md
 ```
