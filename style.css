@@ -236,3 +236,35 @@ transition:.3s;
 transform:translateY(-8px);
 
 }
+.project-button{
+display:inline-block;
+margin-top:20px;
+padding:12px 28px;
+background:#1f2937;
+color:white;
+text-decoration:none;
+border-radius:8px;
+font-weight:bold;
+transition:.3s;
+}
+
+.project-button:hover{
+background:#374151;
+transform:translateY(-2px);
+}
+.project-button{
+display:inline-block;
+margin-top:20px;
+padding:12px 28px;
+background:#1f2937;
+color:white;
+text-decoration:none;
+border-radius:8px;
+font-weight:bold;
+transition:.3s;
+}
+
+.project-button:hover{
+background:#374151;
+transform:translateY(-2px);
+}
